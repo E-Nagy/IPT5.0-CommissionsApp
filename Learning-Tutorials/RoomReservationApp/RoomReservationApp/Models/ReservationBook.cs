@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RoomReservationApp.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,12 +10,32 @@ namespace RoomReservationApp.Models
     public class ReservationBook
     {
 
-        private readonly Dictionary<RoomID, List<Reservation>> roomsToReservations;
+        private readonly List<Reservation> reservations;
 
         public ReservationBook()
         {
-            roomsToReservations = new Dictionary<RoomID, List<Reservation>>();
+            reservations = new List<Reservation>();
         }
 
+
+        public IEnumerable<Reservation> GetReservationsForUser(string username)
+        {
+            return reservations.Where(r => r.UserName == username);
+        }
+
+        public void AddReservations(Reservation reservation)
+        {
+            foreach (Reservation existingReservation in reservations)
+            {
+                if (existingReservation.ReservationConflict(reservation))
+                {
+                    throw new ReservationConflictException(existingReservation, reservation);
+                }
+            }
+
+            reservations.Add(reservation);
+        }
+
+        
     }
 }

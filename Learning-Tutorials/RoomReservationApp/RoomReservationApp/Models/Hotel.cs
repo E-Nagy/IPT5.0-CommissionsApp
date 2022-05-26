@@ -19,7 +19,15 @@ namespace RoomReservationApp.Models
             reservationBook = new ReservationBook();
         }
 
-        
 
+        public IEnumerable<Reservation> GetReservationsForUser(string username)
+        {
+            return reservationBook.GetReservationsForUser(username);
+        }
+
+        public void MakeReservation(Reservation reservation)
+        {
+            reservationBook.AddReservations(reservation);
+        }
     }
 }
