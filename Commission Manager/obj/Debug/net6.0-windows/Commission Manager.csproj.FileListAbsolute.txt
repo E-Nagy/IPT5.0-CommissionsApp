@@ -1,0 +1,21 @@
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\bin\Debug\net6.0-windows\Commission Manager.exe
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\bin\Debug\net6.0-windows\Commission Manager.deps.json
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\bin\Debug\net6.0-windows\Commission Manager.runtimeconfig.json
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\bin\Debug\net6.0-windows\Commission Manager.dll
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\bin\Debug\net6.0-windows\Commission Manager.pdb
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.csproj.AssemblyReference.cache
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager_MarkupCompile.cache
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager_MarkupCompile.lref
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.g.resources
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.AssemblyInfoInputs.cache
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.AssemblyInfo.cs
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.csproj.CoreCompileInputs.cache
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.dll
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\refint\Commission Manager.dll
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.pdb
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\Commission Manager.genruntimeconfig.cache
+C:\Users\nagye\Source\Repos\IPT5.0-CommissionsApp\Commission Manager\obj\Debug\net6.0-windows\ref\Commission Manager.dll
