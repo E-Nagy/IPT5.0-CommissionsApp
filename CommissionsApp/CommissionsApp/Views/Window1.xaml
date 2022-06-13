@@ -1,0 +1,12 @@
+﻿<Window x:Name="CommissionAddWindow" x:Class="CommissionsApp.Views.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommissionsApp.Views"
+        mc:Ignorable="d"
+        Title="Add Commission" Height="450" Width="350" Background="#3E5622">
+    <Grid Margin="0,0,324,-16">
+        
+    </Grid>
+</Window>
