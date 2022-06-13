@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 1942030480316
 ViewModels\App.xaml;Views\MainWindow.xaml;Views\Window1.xaml;
 
-False
+True
 
