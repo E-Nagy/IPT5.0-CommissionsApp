@@ -8,7 +8,11 @@ namespace CommissionsApp.Models
 {
     public class Commissions 
     {
-        
+
+        public Commissions()
+        {
+
+        }
 
         public Commissions(string title, string customer, DateOnly takenOn, double price, string additionalInfo)
         {
