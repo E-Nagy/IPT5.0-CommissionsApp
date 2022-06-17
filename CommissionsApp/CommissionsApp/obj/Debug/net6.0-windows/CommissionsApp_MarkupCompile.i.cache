@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 
-31243200824
+32060890532
 
-683659372
+81585697111
 1942030480316
-ViewModels\App.xaml;Views\MainWindow.xaml;Views\Window1.xaml;
+ViewModels\App.xaml;Views\AddCommissionWindow.xaml;Views\MainWindow.xaml;
 
-True
+False
 
