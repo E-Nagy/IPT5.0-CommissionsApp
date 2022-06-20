@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
+    <Page Include="App.xaml" />
   </ItemGroup>
 
 </Project>

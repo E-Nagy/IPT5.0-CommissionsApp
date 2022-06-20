@@ -9,12 +9,12 @@ CommissionsApp
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\nagye\source\repos\IPT5.0-CommissionsApp\CommissionsApp\CommissionsApp\App.xaml
+2203624725
 
-32060890532
-
-8962273242
+9682029347
 1942030480316
-ViewModels\App.xaml;Views\AddCommissionWindow.xaml;Views\MainWindow.xaml;
+Views\AddCommissionWindow.xaml;Views\MainWindow.xaml;
 
 False
 

@@ -14,7 +14,7 @@ namespace CommissionsApp.Models
 
         }
 
-        public Commissions(string title, string customer, DateOnly takenOn, double price, string additionalInfo)
+        public Commissions(string title, string customer, DateTime takenOn, double price, string additionalInfo)
         {
             
         }
@@ -23,7 +23,7 @@ namespace CommissionsApp.Models
 
         public string Customer { get; set; }
 
-        public DateOnly TakenOn { get; set; }
+        public DateTime TakenOn { get; set; }
 
         public double Price { get; set; }   
 
