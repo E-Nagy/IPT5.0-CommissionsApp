@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CommissionsApp\\Views"
+    "\\IPT5.0_Application",
+    "\\IPT5.0_Application\\Commission-Manager_Project",
+    "\\IPT5.0_Application\\Commission-Manager_Project\\Commission-Manager",
+    "\\IPT5.0_Application\\Commission-Manager_Project\\Commission-Manager\\Commands"
   ],
-  "SelectedNode": "\\CommissionsApp",
+  "SelectedNode": "\\IPT5.0_Application\\Commission-Manager_Project\\Commission-Manager\\Commands\\CommissionUpdateCommand.cs",
   "PreviewInSolutionExplorer": false
 }
