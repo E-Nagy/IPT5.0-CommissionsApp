@@ -17,6 +17,9 @@ namespace CommissionsApp.ViewModels
             _Commissions = new Commissions("Test1", "TestCustomer", DateTime.Now, 30.00, "");
         }
 
+        public Commissions Commissions { get { return _Commissions; } }
+
+        
         
 
     }

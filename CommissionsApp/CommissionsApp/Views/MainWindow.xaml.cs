@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using CommissionsApp.Views;
 
 namespace CommissionsApp
 {
@@ -23,6 +24,12 @@ namespace CommissionsApp
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void NewCommissionButton_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 addCommissionWindow = new Window1();
+            addCommissionWindow.Show();
         }
     }
 }

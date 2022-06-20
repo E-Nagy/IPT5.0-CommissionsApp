@@ -11,7 +11,7 @@
             <ColumnDefinition/>
             <ColumnDefinition Width="9*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="NewCommissionButton" Content="new COMMISSION" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60" Width="375" Background="#3E5622" Foreground="AntiqueWhite" FontSize="22" FontFamily="Baskerville Old Face" FontStyle="Italic" BorderBrush="AntiqueWhite" Grid.ColumnSpan="2"/>
+        <Button x:Name="NewCommissionButton" Content="new COMMISSION" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60" Width="375" Background="#3E5622" Foreground="AntiqueWhite" FontSize="22" FontFamily="Baskerville Old Face" FontStyle="Italic" BorderBrush="AntiqueWhite" Grid.ColumnSpan="2" Click="NewCommissionButton_Click"/>
         <Button x:Name="NewCustomerButton" Content="new CUSTOMER" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60" Width="375" Background="#3E5622" Foreground="AntiqueWhite" FontSize="22" FontFamily="Baskerville Old Face" FontStyle="Italic" Margin="300,0,0,0" BorderBrush="AntiqueWhite" Grid.Column="1"/>
         <ListBox x:Name="CommissionList" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,141,0,0" Width="750" Background="#172815" Foreground="AntiqueWhite" BorderBrush="#172815" Grid.ColumnSpan="2"/>
         <Button x:Name="DeleteCommissionsButton" Content="Delete" HorizontalAlignment="Left" Margin="521,102,0,0" VerticalAlignment="Top" Height="37" Width="154" Foreground="AntiqueWhite" Background="Transparent" BorderBrush="AntiqueWhite" Grid.Column="1"/>
